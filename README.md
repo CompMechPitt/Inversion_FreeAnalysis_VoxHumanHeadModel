@@ -13,6 +13,8 @@ Below are some details of the voxelized human head model
 
 <center><strong>Figure 1: Left Cerebral White Matter</strong></center>
 
+<h1 align="center"><strong>Figure 1: Left Cerebral White Matter</strong></h1>
+
 3. __Left Cerebellum White Matter__ ([Figure2](#fig2) below: In Yellow color)
     - 17616 (Total Number of voxel/hex elements)
     - 22724 (Total Number of nodes) 
