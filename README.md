@@ -7,8 +7,41 @@ The voxelized human head model has a,
 The voxelized mesh data is in the folder [Mesh_Data_(.mat files)](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/tree/main/Mesh_Data_(.mat%20files)). The data is saved in the .mat format which can be loaded easily into MATLAB. 
 
 ### Elements 
+The element matrix size is 2342077 x 10. The details of the each coloumn are as follows ([Figure A](#figa)),
++ Coloumn 1: Element number
++ Coloumn 2: Part number. The details of each part can be found in the next section. Below is the list of parts,
+    - Part 1: Left Cerebral White Matter
+    - Part 2: Right Cerebral White Matter
+    - Part 3: Left Cerebellum White Matter
+    - Part 4: Right Cerebellum White Matter
+    - Part 5: Left Cerebral Grey Matter
+    - Part 6: Right Cerebral Grey Matter
+    - Part 7: Ventricles
+    - Part 8: Left Cerebellum Grey Matter
+    - Part 9: Right Cerebellum Grey Matter 
+    - Part 10: Mid Brain
+    - Part 11: Corpus Callosum
+    - Part 12: Brain Stem
+    - Part 13: CSF
+    - Part 14: Dura
+    - Part 15: Skull
+    - Part 16: Remaining elements 
++ Column 3 to 10: Connectivity of hexahedral element (trilinear 8-noded)
 
-## Components of the Human brain induced in the "VoxHumanHeadModel"
+![Figure A: Element matrix structure](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Element_Matrix.PNG)<!-- Label: figa -->
+
+<h3 align="center"><strong>Figure A: Element matrix structure</strong></h3>
+
+### Nodes 
+The node matrix size is 2313351 x 3. The details of the each coloumn are as follows ([Figure B](#figb)),
++ Coloumn 1: Node number
++ Column 2 to 4: X, Y, Z Coordinates (in meters)
+
+![Figure B: Node matrix structure](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Node_Matrix.PNG)<!-- Label: figb -->
+
+<h3 align="center"><strong>Figure A: Element matrix structure</strong></h3>
+
+## Details of Brain Tissue Components in the "VoxHumanHeadModel"
 
 1. __Left Cerebral White Matter__ ([Figure1](#fig1) below: In Green color)
     - 264569 (Total Number of voxel/hex elements)
