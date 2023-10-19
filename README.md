@@ -9,7 +9,7 @@ Below are some details of the voxelized human head model
     - 260683 (Total Number of voxel/hex elements)
     - 339361 (Total Number of nodes) 
 
-![Figure 1: Left Cerebral White Matter](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Left_Right_Cerebral_White_Matter.PNG) Label: fig1
+![Figure 1: Left Cerebral White Matter](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Left_Right_Cerebral_White_Matter.PNG) <!-- fig1 -->
 
 <center><strong>Figure 1: Left Cerebral White Matter</strong></center>
 
