@@ -41,8 +41,8 @@ Below are some details of the voxelized human head model
 <h3 align="center"><strong>Figure 4: Right Cerebral Grey Matter</strong></h3>
 
 7. __Ventricles__ ([Figure 5](#fig5) : In Blue color)
-    - 9737 (Total Number of voxel/hex elements)
-    - 16093 (Total Number of nodes) 
+    - 10769 (Total Number of voxel/hex elements)
+    - 17924 (Total Number of nodes) 
 
 ![Figure 5: Ventricles](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Ventricles.PNG)<!-- Label: fig4 -->
 
@@ -75,10 +75,42 @@ Below are some details of the voxelized human head model
 
 <h3 align="center"><strong>Figure 8: Corpus Callosum</strong></h3> 
 
-12. __Brain Stem__ ([Figure9](#fig9) below: In CyanGreen color)
-    - 2835 (Total Number of voxel/hex elements)
-    - 4305 (Total Number of nodes) 
+12. __Brain Stem__ ([Figure9](#fig9) below: In Golden color)
+    - 21519 (Total Number of voxel/hex elements)
+    - 25819 (Total Number of nodes) 
 
-![Figure 9: Brain Stem](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Brain_Stem.PNG)<!-- Label: fig8 -->
+![Figure 9: Brain Stem](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Brain_Stem.PNG)<!-- Label: fig9 -->
 
 <h3 align="center"><strong>Figure 9: Brain Stem</strong></h3> 
+
+13. __CSF__ ([Figure10](#fig10) below: In GrayishBlue color)
+    - 431872 (Total Number of voxel/hex elements)
+    - 689600 (Total Number of nodes) 
+
+![Figure 10: CSF](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/CSF.PNG)<!-- Label: fig10 -->
+
+<h3 align="center"><strong>Figure 10: Cut Section of CSF</strong></h3> 
+
+14. __Dura__ ([Figure11](#fig11) below: In LightGreen color)
+    - 158989 (Total Number of voxel/hex elements)
+    - 303239 (Total Number of nodes) 
+
+![Figure 11: Dura](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Dura.PNG)<!-- Label: fig11 -->
+
+<h3 align="center"><strong>Figure 11: Cut Section of Dura</strong></h3> 
+
+15. __Skull__ ([Figure12](#fig12) below: In Brown color)
+    - 477488 (Total Number of voxel/hex elements)
+    - 610142 (Total Number of nodes) 
+
+![Figure 12: Dura](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Skull.PNG)<!-- Label: fig12 -->
+
+<h3 align="center"><strong>Figure 12: Cut Section of Skull</strong></h3> 
+
+16. __Remaining Elements__ ([Figure13](#fig13) below: In Green color)
+    - 321 (Total Number of voxel/hex elements)
+    - 1651 (Total Number of nodes) 
+
+![Figure 13: Dura](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Remaining_Elements.PNG)<!-- Label: fig13 -->
+
+<h3 align="center"><strong>Figure 13: Remaining Elements</strong></h3> 
