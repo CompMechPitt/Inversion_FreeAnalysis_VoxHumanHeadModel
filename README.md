@@ -11,9 +11,7 @@ Below are some details of the voxelized human head model
 
 ![Figure 1: Left Cerebral White Matter](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Left_Right_Cerebral_White_Matter.PNG) <!-- fig1 -->
 
-<center><strong>Figure 1: Left Cerebral White Matter</strong></center>
-
-<h1 align="center"><strong>Figure 1: Left Cerebral White Matter</strong></h1>
+<h3 align="center"><strong>Figure 1: Left Cerebral White Matter</strong></h3>
 
 3. __Left Cerebellum White Matter__ ([Figure2](#fig2) below: In Yellow color)
     - 17616 (Total Number of voxel/hex elements)
@@ -24,7 +22,7 @@ Below are some details of the voxelized human head model
 
 ![Figure 2: Left Right Cerebellum White Matter](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Left_Right_Cerebellum_White_Matter.PNG)<!-- Label: fig2 -->
 
-<center><strong>Figure 2: Left Right Cerebellum White Matter</strong></center>
+<h3 align="center"><strong>Figure 2: Left Right Cerebellum White Matter</strong></h3>
 
 5. __Left Cerebral Grey Matter__ ([Figure 3](#fig3) : In Brown color)
     - 252966 (Total Number of voxel/hex elements)
@@ -32,7 +30,7 @@ Below are some details of the voxelized human head model
 
 ![Figure 3: Left Cerebral Grey Matter](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Left_Cerebral_Grey_Matter.PNG)<!-- Label: fig3 -->
 
-<center><strong>Figure 3: Left Cerebral Grey Matter</strong></center>
+<h3 align="center"><strong>Figure 3: Left Cerebral Grey Matter</strong></h3>
 
 6. __Right Cerebral Grey Matter__ ([Figure 4](#fig4) : In Grey color)
     - 250301 (Total Number of voxel/hex elements)
@@ -40,5 +38,5 @@ Below are some details of the voxelized human head model
 
 ![Figure 4: Right Cerebral Grey Matter](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Right_Cerebral_Grey_Matter.PNG)<!-- Label: fig4 -->
 
-<center><strong>Figure 4: Right Cerebral Grey Matter</strong></center>
+<h3 align="center"><strong>Figure 4: Right Cerebral Grey Matter</strong></h3>
 
