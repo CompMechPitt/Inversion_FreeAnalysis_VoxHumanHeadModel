@@ -40,3 +40,21 @@ Below are some details of the voxelized human head model
 
 <h3 align="center"><strong>Figure 4: Right Cerebral Grey Matter</strong></h3>
 
+7. __Ventricles__ ([Figure 5](#fig5) : In Blue color)
+    - 9737 (Total Number of voxel/hex elements)
+    - 16093 (Total Number of nodes) 
+
+![Figure 5: Ventricles](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Ventricles.PNG)<!-- Label: fig4 -->
+
+<h3 align="center"><strong>Figure 5: Ventricles</strong></h3>
+
+8. __Left Cerebellum Grey Matter__ ([Figure6](#fig6) below: In Green color)
+    - 52197 (Total Number of voxel/hex elements)
+    - 63838 (Total Number of nodes) 
+9. __Right Cerebellum Grey Matter__ ([Figure6](#fig6) below: In Pink color)
+    - 54631 (Total Number of voxel/hex elements)
+    - 66196 (Total Number of nodes) 
+
+![Figure 6: Left Right Cerebellum Grey Matter](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Left_Right_Cerebellum_Grey_Matter.PNG)<!-- Label: fig6 -->
+
+<h3 align="center"><strong>Figure 6: Left Right Cerebellum White Matter</strong></h3>
