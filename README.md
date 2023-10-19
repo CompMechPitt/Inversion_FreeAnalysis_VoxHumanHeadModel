@@ -58,3 +58,27 @@ Below are some details of the voxelized human head model
 ![Figure 6: Left Right Cerebellum Grey Matter](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Left_Right_Cerebellum_Grey_Matter.PNG)<!-- Label: fig6 -->
 
 <h3 align="center"><strong>Figure 6: Left Right Cerebellum White Matter</strong></h3>
+
+10. __Mid Brain__ ([Figure7](#fig7) below: In CyanGreen color)
+    - 67838 (Total Number of voxel/hex elements)
+    - 86617 (Total Number of nodes) 
+
+![Figure 7: Mid Brain](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Mid_Brain.PNG)<!-- Label: fig7 -->
+
+<h3 align="center"><strong>Figure 7: Mid Brain</strong></h3> 
+
+11. __Corpus Callosum__ ([Figure8](#fig8) below: In Red color)
+    - 2835 (Total Number of voxel/hex elements)
+    - 4305 (Total Number of nodes) 
+
+![Figure 8: Corpus Callosum](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Corpus_Callosum.PNG)<!-- Label: fig8 -->
+
+<h3 align="center"><strong>Figure 8: Corpus Callosum</strong></h3> 
+
+12. __Brain Stem__ ([Figure9](#fig9) below: In CyanGreen color)
+    - 2835 (Total Number of voxel/hex elements)
+    - 4305 (Total Number of nodes) 
+
+![Figure 9: Brain Stem](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Brain_Stem.PNG)<!-- Label: fig8 -->
+
+<h3 align="center"><strong>Figure 9: Brain Stem</strong></h3> 
