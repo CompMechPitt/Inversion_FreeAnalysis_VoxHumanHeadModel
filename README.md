@@ -26,6 +26,8 @@ Below are some details of the voxelized human head model
 
 ![Figure 3: Left Cerebral Grey Matter](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Left_Cerebral_Grey_Matter.PNG)<!-- Label: fig3 -->
 
+Figure 3: Left Cerebral Grey Matter
+
 6. __Right Cerebral Grey Matter__ ([Figure 4](#fig4) : In Grey color)
     - 250301 (Total Number of voxel/hex elements)
     - 289379 (Total Number of nodes) 
