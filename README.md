@@ -1,5 +1,13 @@
 # Inversion_FreeAnalysis_VoxHumanHeadModel
-Below are some details of the voxelized human head model
+The voxelized human head model has a,
++ Total 2342077 Hex-elements 
++ Total 2413351 Nodes
+
+## Details of Data Structure for Nodes and Elements 
+The voxelized mesh data is in the folder [Mesh_Data_(.mat files)](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/tree/main/Mesh_Data_(.mat%20files)). The data is saved in the .mat format which can be loaded easily into MATLAB. 
+
+### Elements 
+
 ## Components of the Human brain induced in the "VoxHumanHeadModel"
 
 1. __Left Cerebral White Matter__ ([Figure1](#fig1) below: In Green color)
