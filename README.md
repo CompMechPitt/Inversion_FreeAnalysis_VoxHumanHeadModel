@@ -1,7 +1,7 @@
 # Inversion_FreeAnalysis_VoxHumanHeadModel
 The voxelized human head model has a,
 + Total 2342077 Hex-elements 
-+ Total 2413351 Nodes
++ Total 2413350 Nodes
 
 ## Details of Data Structure for Nodes and Elements 
 The voxelized mesh data is in the folder [Mesh_Data_(.mat files)](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/tree/main/Mesh_Data_(.mat%20files)). The data is saved in the .mat format which can be loaded easily into MATLAB. 
@@ -33,13 +33,13 @@ The element matrix size is 2342077 x 10. The details of the each coloumn are as 
 <h3 align="center"><strong>Figure A: Element matrix structure</strong></h3>
 
 ### Nodes 
-The node matrix size is 2313351 x 3. The details of the each coloumn are as follows ([Figure B](#figb)),
+The node matrix size is 2313350 x 3. The details of the each coloumn are as follows ([Figure B](#figb)),
 + Coloumn 1: Node number
 + Column 2 to 4: X, Y, Z Coordinates (in meters)
 
 ![Figure B: Node matrix structure](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Node_Matrix.PNG)<!-- Label: figb -->
 
-<h3 align="center"><strong>Figure A: Element matrix structure</strong></h3>
+<h3 align="center"><strong>Figure B: Node matrix structure</strong></h3>
 
 ## Details of Brain Tissue Components in the "VoxHumanHeadModel"
 
