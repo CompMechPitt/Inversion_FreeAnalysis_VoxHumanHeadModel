@@ -100,16 +100,16 @@ Below are some details of the voxelized human head model
 <h3 align="center"><strong>Figure 11: Cut Section of Dura</strong></h3> 
 
 15. __Skull__ ([Figure12](#fig12) below: In Brown color)
-    - 477488 (Total Number of voxel/hex elements)
-    - 610142 (Total Number of nodes) 
+    - 477495 (Total Number of voxel/hex elements)
+    - 610152 (Total Number of nodes) 
 
 ![Figure 12: Dura](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Skull.PNG)<!-- Label: fig12 -->
 
 <h3 align="center"><strong>Figure 12: Cut Section of Skull</strong></h3> 
 
 16. __Remaining Elements__ ([Figure13](#fig13) below: In Green color)
-    - 321 (Total Number of voxel/hex elements)
-    - 1651 (Total Number of nodes) 
+    - 314 (Total Number of voxel/hex elements)
+    - 1611 (Total Number of nodes) 
 
 ![Figure 13: Dura](https://github.com/CompMechPitt/Inversion_FreeAnalysis_VoxHumanHeadModel/blob/main/Images/Remaining_Elements.PNG)<!-- Label: fig13 -->
 
